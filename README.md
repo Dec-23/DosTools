@@ -4,7 +4,7 @@ dos tools
 
 注：只适用于windows系统
 
-![](image/sfhkuso.jpg)
+![](image/sfh.jpg)
 
 thanks！
 
